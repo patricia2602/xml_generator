@@ -1,0 +1,1 @@
+I'm writing xml pages to display important values from a2l files. a2l has repeating patterns which makes it possible to extract through basic text mining tricks. I'm still new to text mining tho, so I'd be happy to receive advice on how to make this code more efficient!
